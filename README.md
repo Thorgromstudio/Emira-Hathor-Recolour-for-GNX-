@@ -2,17 +2,7 @@ Emira is a new capturable reskin of Hathor with dark skin, golden hair and eyes.
 
 ***Things that need fixing/checking out:***
 
-There are numerous cells that have part of the skin change to the default skin and GB1 has a disembodied goblin weener. I've contacted the maker of GNX and it was confirmed that this is an issue that is being worked on.
-
--No special dairy cell support yet. Will update when GNX allows special cells for custom characters.
-
--Infinite Milk related to GNX stuff
-
--Quest dialogue popups
-
-***Things I want to change in the future:***
-
--Instead of base Hathor hair I'd like long hair on Emira. Maybe that'll go on another cow character though.
+-Quest dialogue popup. The third taunt triggers even at capture. Don't know how to fix this yet. 
 
 Let me know if you guys encounter any bugs or things going wrong!
 
@@ -53,5 +43,19 @@ Changelog:
 -Adjusted original spawn and clone combat power due to stage number and quest mechanic
 
 -Quest mechanic added but dialogue isn't quite working as intended. Emira will fight you off a certain number of times before you can capture her but the dialogue trips. Code should work according to GNX documentation, will get fixed when new GNX bugs get fixed, maybe the code will fall in place somehow :)
+
+***V1.5 Released***
+
+-Added Dairy cell functionality and added the custom skin colour touch sprites (if not, Emira's butt would colour white while a goblin or hobgoblin was busy)
+
+-Fixed birth sprites, should now be Emira's dark colour in all birthing cells (birth 1, 2 for gob, hobgob and ogre variants, tent 1, 2, 3 and bind 1 and 2)
+
+-Drink touch sprites fixed
+
+-Lost atlas functionality. Somehow when making the atlas sheet things broke. So for now, back to strip usage.
+
+-Quest fix. Sometimes the reward wouldn't trigger and you couldn't complete quest. Works on my end.
+
+-Big idle leg C sprite strip recoloured correctly, apparently forgot that one.
 
 <img width="133" height="113" alt="spr_portrait_Emira_1" src="https://github.com/user-attachments/assets/ecd82b14-eff5-483d-b28e-923f12fc4e00" />
