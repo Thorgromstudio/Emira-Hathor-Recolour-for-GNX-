@@ -54,6 +54,8 @@ Changelog:
 
 -Lost atlas functionality. Somehow when making the atlas sheet things broke. So for now, back to strip usage.
 
+-Adjusted manifest for version 1.39 up to 1.43
+
 -Quest fix. Sometimes the reward wouldn't trigger and you couldn't complete quest. Works on my end.
 
 -Big idle leg C sprite strip recoloured correctly, apparently forgot that one.
