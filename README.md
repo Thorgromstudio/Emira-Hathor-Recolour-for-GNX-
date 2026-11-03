@@ -60,4 +60,10 @@ Changelog:
 
 -Big idle leg C sprite strip recoloured correctly, apparently forgot that one.
 
+***V1.6 Released***
+
+-Added atlas sheet for all cells apart from Dairy. Birth 1 and 2 cells properly load their respective overrides and the tentacle cells seem to have correct birthing sprites too.
+
+-Fixed questline where final taunt would show double when capturing. This should no longer happen.
+
 <img width="133" height="113" alt="spr_portrait_Emira_1" src="https://github.com/user-attachments/assets/ecd82b14-eff5-483d-b28e-923f12fc4e00" />
