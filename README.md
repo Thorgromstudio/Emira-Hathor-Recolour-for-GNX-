@@ -1,4 +1,5 @@
-Emira is a new capturable reskin of Hathor with dark skin, golden hair and eyes. You'll be able to capture her at the top of the mountain. Quest trigger should happen upon reaching level 3. This is my first ever mod and I'm not quite yet satisfied with it but all the vanilla stuff seems to work.
+Emira is a new capturable reskin of Hathor with dark skin, golden hair and eyes. You'll be able to capture her at the top of the mountain. Quest trigger should happen upon reaching level 3. This is my first ever mod and I'll update her where I can and where needed.
+Currently she's compatible with Py's Extra Cells mod and Mav's Underground Cell Mod the Tentacle Pit. The Hathorverse version is also supported in those cells.
 
 ***Things that need fixing/checking out:***
 
